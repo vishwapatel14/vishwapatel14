@@ -2,7 +2,7 @@
 
 **Connect with Me:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishwa-patel)
-- 📧 [Email](mailto:vishwapatel214@gmail.com) (vishwapatel214@gmail.com)
+- 📧 [vishwapatel214@gmail.com](mailto:vishwapatel214@gmail.com) 
 
 **About Me:**
 - 🎓 Currently an **analytics graduate student** at the McCombs School of Business at the University of Texas at Austin
@@ -24,4 +24,4 @@
 
 <!-- TODO: Add future projects here: supply chain project (fork Ethan repo), market basket analysis from marketing -->
 
-Thanks for visiting my profile 
+Thanks for visiting my profile!
