@@ -6,7 +6,7 @@
 
 **About Me:**
 - 🎓 Currently an **analytics graduate student** at the McCombs School of Business at the University of Texas at Austin
-- 📈 Data professional with a background in **finance, supply chain management, and analytics**
+- 📈 Data analytics professional with a background in **finance and supply chain management**
 - 💼 I have work experience with:
   - **BI Analytics and Data Engineering:** Built an automated project launch tracking tool using Alteryx, SQL, and Power BI for my company's supply chain organization
   - **Data Governance and Information Management:** Designed and built an automated governance tool to migrate Alteryx analytics workflows from QA to production
@@ -21,7 +21,7 @@
 - 🔗 **[Movie Revenue Prediction](link)** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
 - 🔗 **[Skin Cancer Classification](https://github.com/vishwapatel14/Skin-Cancer-Classification-Model.git)** - Building deep learning model for skin cancer classification using convolutional neural network and transfer learning; working with a highly class imbalanced dataset.
 - 🔗 **[Airbnb Price Prediction Model](link)** - Built linear regression model to predict Airbnb nightly prices.
-- 🔗 **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - A work in progress - stay tuned!
+- 🔗 **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - A work in progress - stay tuned! Building a supply chain forecasting model using Bayesian statistics. 
 
 <!-- TODO: Add future projects here: supply chain project (fork Ethan repo), market basket analysis from marketing -->
 
