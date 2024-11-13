@@ -21,7 +21,7 @@
 - 🔗 **[Movie Revenue Prediction](link)** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
 - 🔗 **[Skin Cancer Classification](https://github.com/vishwapatel14/Skin-Cancer-Classification-Model.git)** - Building deep learning model for skin cancer classification using convolutional neural network and transfer learning; working with a highly class imbalanced dataset.
 - 🔗 **[Airbnb Price Prediction Model](link)** - Built linear regression model to predict Airbnb nightly prices.
-- **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - A work in progress - stay tuned!
+- 🔗 **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - A work in progress - stay tuned!
 
 <!-- TODO: Add future projects here: supply chain project (fork Ethan repo), market basket analysis from marketing -->
 
