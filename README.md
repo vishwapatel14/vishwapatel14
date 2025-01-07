@@ -16,13 +16,13 @@
 🌱 I'm currently **building my skills in data science, machine learning, and data engineering** - below are some of my favorite projects.
 
 ## **My Projects:**
-- 🔗 **[Shampoo Recommender System](link)** - Web-scraped thousands of shampoo reviews from Influenster.com; used cosine/spaCy similarity to build customized recommender system based on user-selected product attributes such as "silky," "frizz-free," etc.
-- 🔗 **[Stock Portfolio Recommender](link)** - Used integer and mixed integer programming to build an optimal stock portfolio by minimizing mean absolute error.
-- 🔗 **[Movie Revenue Prediction](link)** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
+- 🔗 **[Shampoo Recommender System](https://github.com/vishwapatel14/Shampoo-Recommender-System)** - Web-scraped thousands of shampoo reviews from Influenster.com; used cosine/spaCy similarity to build customized recommender system based on user-selected product attributes such as "silky," "frizz-free," etc.
+- 🔗 **[Stock Portfolio Recommender](https://github.com/vishwapatel14/Stock-Portfolio-Optimization)** - Used integer and mixed integer programming to build an optimal stock portfolio by minimizing mean absolute error.
+- 🔗 **[Movie Revenue Prediction]([link](https://github.com/vishwapatel14/Movie-Revenue-Prediction))** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
 - 🔗 **[Skin Cancer Classification](https://github.com/vishwapatel14/Skin-Cancer-Classification-Model.git)** - Built model for skin cancer image classification problem with highly class imbalanced dataset, using convolutional neural network (transfer learning) and a mixture of experts model incorporating logistic regression and multiple ensemble methods.
 - 🔗 **[Airbnb Price Prediction Model](link)** - Built linear regression model to predict Airbnb nightly prices.
 - 🔗 **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - Built and evaluated multiple demand forecasting models for ingredients for a Mexican restaurant, including: Bayesian model with Poisson likelihood, ARIMA, and Exponential Smoothing.
-- 🔗 **[Market Basket Analysis for Online Retailer](link)**
+- 🔗 **[Market Basket Analysis for Online Retailer](https://github.com/vishwapatel14/Online-Retailer-Market-Basket-Analysis)**
 
 <!-- TODO: Add future projects here -->
 
