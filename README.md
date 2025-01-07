@@ -29,5 +29,3 @@
 - 🔗 **[Airbnb Price Prediction Model](https://github.com/vishwapatel14/Airbnb-Price-Prediction)** - Built linear regression model to predict Airbnb nightly prices.
 - 🔗 **[Time Series Analysis of Ingredient Demand for Mexican Restaurant](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - Built and evaluated multiple demand forecasting models for steak, shrimp, and tomato usage at a Mexican restaurant, including: Bayesian model with Poisson likelihood, ARIMA, and Exponential Smoothing.
 - 🔗 **[Market Basket Analysis for Online Retailer](https://github.com/vishwapatel14/Online-Retailer-Market-Basket-Analysis)** - Performed product and category level market basket analysis for UK-based online gift retailer to uncover cross-category purchase patterns and recommend product bundling strategies. 
-
-Thanks for visiting my profile!
