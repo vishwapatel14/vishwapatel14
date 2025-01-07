@@ -1,4 +1,4 @@
-# Hi, I'm Vishwa 👋
+# Hi, I'm Vishwa 👋🏽
 [👇🏽 Check out my data science projects below](#my-projects)
 
 ## **Let's Connect**
