@@ -1,10 +1,15 @@
 # Hi, I'm Vishwa 👋
 
-## **Connect with Me:**
+## **Let's Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishwa-patel)
-- 📧 [vishwapatel214@gmail.com](mailto:vishwapatel214@gmail.com) 
+- 📧 [vishwapatel214@gmail.com](mailto:vishwapatel214@gmail.com)
 
-## **About Me:** 
+## **Technical Skills**
+- **Programming:** Python, R, SQL
+  - **Python packages:** pandas, NumPy, scikit-learn, TensorFlow, gurobipy, SciPy
+- **Other:** Alteryx, Power BI, Tableau, Excel, Snowflake, SAP HANA 
+
+## **About Me** 
 - 🎓 Currently an **analytics graduate student** at the McCombs School of Business at the University of Texas at Austin
 - 📈 Data analytics professional with **5+ years work experience** and domain knowledge in **finance and supply chain management**
 - 💼 I have work experience with:
@@ -15,7 +20,7 @@
 
 🌱 I'm currently **building my skills in data science, machine learning, and data engineering** - below are some of my favorite projects.
 
-## **My Projects:**
+## **My Projects**
 - 🔗 **[Shampoo Recommender System](https://github.com/vishwapatel14/Shampoo-Recommender-System)** - Web-scraped thousands of shampoo reviews from Influenster.com; used cosine/spaCy similarity to build customized recommender system based on user-selected product attributes such as "silky," "frizz-free," etc.
 - 🔗 **[Stock Portfolio Recommender](https://github.com/vishwapatel14/Stock-Portfolio-Optimization)** - Used integer and mixed integer programming to build an optimal stock portfolio by minimizing mean absolute error.
 - 🔗 **[Movie Revenue Prediction](https://github.com/vishwapatel14/Movie-Revenue-Prediction)** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
