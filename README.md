@@ -28,8 +28,6 @@
 - 🔗 **[Skin Cancer Classification](https://github.com/vishwapatel14/Skin-Cancer-Classification-Model.git)** - Built model for skin cancer image classification problem with highly class imbalanced dataset, using convolutional neural network (transfer learning) and a mixture of experts model incorporating logistic regression and multiple ensemble methods.
 - 🔗 **[Airbnb Price Prediction Model](https://github.com/vishwapatel14/Airbnb-Price-Prediction)** - Built linear regression model to predict Airbnb nightly prices.
 - 🔗 **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - Built and evaluated multiple demand forecasting models for ingredients for a Mexican restaurant, including: Bayesian model with Poisson likelihood, ARIMA, and Exponential Smoothing.
-- 🔗 **[Market Basket Analysis for Online Retailer](https://github.com/vishwapatel14/Online-Retailer-Market-Basket-Analysis)**
-
-<!-- TODO: Add future projects here -->
+- 🔗 **[Market Basket Analysis for Online Retailer](https://github.com/vishwapatel14/Online-Retailer-Market-Basket-Analysis)** - Performed market basket analysis for UK-based online gift retailer to uncover cross-category purchase patterns and recommend product bundling strategies. 
 
 Thanks for visiting my profile!
