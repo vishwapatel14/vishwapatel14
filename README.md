@@ -20,7 +20,7 @@
 - 🔗 **[Stock Portfolio Recommender](https://github.com/vishwapatel14/Stock-Portfolio-Optimization)** - Used integer and mixed integer programming to build an optimal stock portfolio by minimizing mean absolute error.
 - 🔗 **[Movie Revenue Prediction](https://github.com/vishwapatel14/Movie-Revenue-Prediction)** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
 - 🔗 **[Skin Cancer Classification](https://github.com/vishwapatel14/Skin-Cancer-Classification-Model.git)** - Built model for skin cancer image classification problem with highly class imbalanced dataset, using convolutional neural network (transfer learning) and a mixture of experts model incorporating logistic regression and multiple ensemble methods.
-- 🔗 **[Airbnb Price Prediction Model](link)** - Built linear regression model to predict Airbnb nightly prices.
+- 🔗 **[Airbnb Price Prediction Model](https://github.com/vishwapatel14/Airbnb-Price-Prediction)** - Built linear regression model to predict Airbnb nightly prices.
 - 🔗 **[Supply Chain Forecasting Project](https://github.com/ethanrwong/Supply-Chain-Analytics-Group-Project.git)** - Built and evaluated multiple demand forecasting models for ingredients for a Mexican restaurant, including: Bayesian model with Poisson likelihood, ARIMA, and Exponential Smoothing.
 - 🔗 **[Market Basket Analysis for Online Retailer](https://github.com/vishwapatel14/Online-Retailer-Market-Basket-Analysis)**
 
