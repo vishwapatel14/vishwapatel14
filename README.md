@@ -1,5 +1,5 @@
 # Hi, I'm Vishwa 👋
-[👇🏽 Check out my projects below](#my-projects)
+[👇🏽 Check out my data science projects below](#my-projects)
 
 ## **Let's Connect**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishwa-patel)
