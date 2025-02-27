@@ -22,6 +22,7 @@
 🌱 I'm currently **building my skills in data science, machine learning, and data engineering** - below are some of my favorite projects.
 
 ## **My Projects**
+- 🔗 **[WIP - Matching User Search Queries to Website Taxonomies (Data Science Capstone)](https://github.com/jennamferguson/KoddiCapstone)** - Fine tune a pretrained embedding model to match user search queries on websites to that website's unique taxonomy hierarchy. 
 - 🔗 **[Shampoo Recommender System](https://github.com/vishwapatel14/Shampoo-Recommender-System)** - Web-scraped thousands of shampoo reviews from Influenster.com; used cosine/spaCy similarity to build customized recommender system based on user-selected product attributes such as "silky," "frizz-free," etc.
 - 🔗 **[Stock Portfolio Recommender](https://github.com/vishwapatel14/Stock-Portfolio-Optimization)** - Used integer and mixed integer programming to build an optimal stock portfolio by minimizing mean absolute error.
 - 🔗 **[Movie Revenue Prediction](https://github.com/vishwapatel14/Movie-Revenue-Prediction)** - Built random forest/bagging models to predict movie revenue; improved prediction accuracy through feature engineering/extraction and log transformation of variables.
